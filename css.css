@@ -15,7 +15,7 @@
     header .main-box .menu{
         width: 0%;
         height: 100%;
-        background-color: rgb(229, 229, 229);
+        background-color: #fff;
         transition: all 0.2s;
         overflow-x: hidden;
         position: fixed;
@@ -120,7 +120,7 @@
     header .main-box .menu{
         width: 0%;
         height: 100%;
-        background-color: rgb(229, 229, 229);
+        background-color: #fff;
         transition: all 0.2s;
         overflow-x: hidden;
         position: fixed;
